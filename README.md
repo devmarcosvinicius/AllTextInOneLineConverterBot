@@ -5,5 +5,3 @@
 This is a simple telegram bot, it's used for converter multiline text in single line text.
 
 You can use find it on <a href="http://t.me/AllTextInOneLineConverterBot" target="_blank">Telegram Link</a>.
-
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
