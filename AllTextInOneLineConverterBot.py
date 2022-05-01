@@ -8,7 +8,7 @@ from telegram.ext import (
 )
 from telegram import ParseMode, Update
 
-API_KEY = "5355592030:AAGU1kCAF-0wGE2M12tt7zuiuNgT6cGUhdw"
+API_KEY = "API_KEY GOES HERE"
 updater = Updater(API_KEY, use_context=True)
 bot = updater.bot
 
