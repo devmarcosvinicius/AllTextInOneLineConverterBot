@@ -1,4 +1,4 @@
-# AllTextInOneLineConverterBo
+# AllTextInOneLineConverterBot
 
 This is a simple Python script that uses the `telegram` library to create a bot that can convert multi-line text into a single line.
 
